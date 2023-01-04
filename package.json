@@ -1,0 +1,24 @@
+{
+  "name": "round_5_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandit14/round_5_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandit14/round_5_deploy/issues"
+  },
+  "homepage": "https://github.com/pandit14/round_5_deploy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json-server": "^0.17.1"
+  }
+}
